@@ -1,0 +1,15 @@
+D:\cs\sort array\BubbleSort\BubbleSort\bin\Debug\net7.0\BubbleSort.exe
+D:\cs\sort array\BubbleSort\BubbleSort\bin\Debug\net7.0\BubbleSort.deps.json
+D:\cs\sort array\BubbleSort\BubbleSort\bin\Debug\net7.0\BubbleSort.runtimeconfig.json
+D:\cs\sort array\BubbleSort\BubbleSort\bin\Debug\net7.0\BubbleSort.dll
+D:\cs\sort array\BubbleSort\BubbleSort\bin\Debug\net7.0\BubbleSort.pdb
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.csproj.AssemblyReference.cache
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.AssemblyInfoInputs.cache
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.AssemblyInfo.cs
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.dll
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\refint\BubbleSort.dll
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.pdb
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\BubbleSort.genruntimeconfig.cache
+D:\cs\sort array\BubbleSort\BubbleSort\obj\Debug\net7.0\ref\BubbleSort.dll

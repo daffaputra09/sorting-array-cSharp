@@ -1,0 +1,15 @@
+D:\cs\sort array\InsertionSort\InsertionSort\bin\Debug\net7.0\InsertionSort.exe
+D:\cs\sort array\InsertionSort\InsertionSort\bin\Debug\net7.0\InsertionSort.deps.json
+D:\cs\sort array\InsertionSort\InsertionSort\bin\Debug\net7.0\InsertionSort.runtimeconfig.json
+D:\cs\sort array\InsertionSort\InsertionSort\bin\Debug\net7.0\InsertionSort.dll
+D:\cs\sort array\InsertionSort\InsertionSort\bin\Debug\net7.0\InsertionSort.pdb
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.AssemblyReference.cache
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfoInputs.cache
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfo.cs
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.dll
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\refint\InsertionSort.dll
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.pdb
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\InsertionSort.genruntimeconfig.cache
+D:\cs\sort array\InsertionSort\InsertionSort\obj\Debug\net7.0\ref\InsertionSort.dll
