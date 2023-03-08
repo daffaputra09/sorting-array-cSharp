@@ -7,8 +7,8 @@ namespace MergeSort
     {
         static void Main(string[] args)
         {
-            int[] nilai = { 7, 1, 4, 3, 6, 2, 5 };
-            MergeSort(nilai);
+            int[] list = { 7, 1, 4, 3, 6, 2, 5 };
+            MergeSort(list);
         }
 
 
