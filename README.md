@@ -1,4 +1,4 @@
-# Aorting Array C#
+# Sorting Array C#
 ### Melakukan sorting array pada bahasa pemgrograman c# (cSharp) menggunakan beberapa metode:
 1. Bubble Sort
 2. Insertion Sort
